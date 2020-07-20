@@ -1,0 +1,2 @@
+# TV-Halftime-Shows-and-the-Big-Game
+The project comprises three data files (game data, TV data &amp;  halftime musician data) on Super Bowl. A deep analysis on some important elements like most extreme game outcomes, game affect television viewership, have viewership, TV ratings, and ad cost evolved over time, the most prolific musicians in terms of halftime show performances. Performed data cleaning/wrangling and visualizations using Pandas and Seaborn library.
